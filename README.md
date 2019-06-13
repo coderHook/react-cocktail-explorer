@@ -1,3 +1,9 @@
+# React Cocktails List
+##Categories and Images
+
+toDo:
+ - [] To fix some categories are not fetching their data.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
